@@ -1,7 +1,7 @@
 // .on event listener documentation - https://api.jquery.com/on/#on-events-selector-data-handler
 
 // Part 1 event Listener Here
-$(' ').on(" ", function(){
+$('button1').on("click ", function{('.hideMe')
 
 });
 // Part 2 event listener here
